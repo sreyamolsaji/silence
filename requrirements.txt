@@ -1,4 +1,0 @@
-requirements.txt
-streamlit
-opencv-python-headless
-numpy
